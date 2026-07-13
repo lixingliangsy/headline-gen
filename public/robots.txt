@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://headline-gen.com/sitemap.xml
